@@ -1,0 +1,205 @@
+[
+    {
+       "id":"eyJpdiI6IlF4cmg1K2Z2cTRNS3l3MDEzOGNvblE9PSIsInZhbHVlIjoiT2M2bU5nbXNOVlcxNWF3RTFwelphUT09IiwibWFjIjoiN2U0NjEwZmY3NWYyMDljMzBmOGQ3MjQ2NWY2NWZhZTRlOTAyMzlmNTEwNjQ5MGM0ZmE4YWNkNDc4NDJkOTA5YyJ9",
+       "nombre":"Pensionado de mascotas \"Como en casa\"",
+       "ubicacion":{
+          "direccion":"Av. Ing Eduardo Madero 2300, B1669BZQ Del Viso, Provincia de Buenos Aires",
+          "lat":-34.46013439745161,
+          "long":-58.80857841888721
+       },
+       "telefono":"+541164657462",
+       "admisiones":{
+          "perros":false,
+          "gatos":true
+       },
+       "capacidad":50,
+       "lugares_disponibles":45,
+       "patio":true,
+       "caracteristicas":[
+          "Tranquilo",
+          "Pacífico"
+       ]
+    },
+    {
+       "id":"eyJpdiI6IjdhN25lL0VLZmYzVWFkbjRpbThMOHc9PSIsInZhbHVlIjoibCtsSmlKeXBUeFVPb0E2bVUrOGpQQT09IiwibWFjIjoiOTQzN2ZmYzZlMGM1Nzg3N2Q4NjBmZTU0YjczMWIxYzQ3OTFkZWMzNTIwNGI3NDI5NmNiNjZlMTM1MTQ5YTc4YiJ9",
+       "nombre":"Adopteros Argentina",
+       "ubicacion":{
+          "direccion":"Plaza Teniente General Emilio Mitre, Recoleta, Buenos Aires",
+          "lat":-34.58805543938273,
+          "long":-58.39709555890073
+       },
+       "telefono":"+541140893717",
+       "admisiones":{
+          "perros":true,
+          "gatos":false
+       },
+       "capacidad":50,
+       "lugares_disponibles":20,
+       "patio":true,
+       "caracteristicas":[
+          
+       ]
+    },
+    {
+       "id":"eyJpdiI6ImtiRXF6cFVFRDUzNlFNQm1CVUVOSkE9PSIsInZhbHVlIjoiN2hOVjBTODVkSWhYQlhPTGpsMWF6dz09IiwibWFjIjoiNzkzODczMjM2OTE4M2ViZjA1MmUxNzE5ZDhiMjFkZWQ2YWM5ODk4N2QzMzM0Yjg3MWNlOTI1MjY0ZWQ1MmIwOSJ9",
+       "nombre":"Las Renatas",
+       "ubicacion":{
+          "direccion":"Belén de Escobar, Provincia de Buenos Aires",
+          "lat":-34.321757318424986,
+          "long":-58.76384353218433
+       },
+       "telefono":"+541130017001",
+       "admisiones":{
+          "perros":true,
+          "gatos":true
+       },
+       "capacidad":150,
+       "lugares_disponibles":89,
+       "patio":true,
+       "caracteristicas":[
+          
+       ]
+    },
+    {
+       "id":"eyJpdiI6IkdTZjB1SDNTdVVic3hwa0JDeDZKTVE9PSIsInZhbHVlIjoiZDFldGVTYy81emxnbW54T200Sm1JUT09IiwibWFjIjoiZjQwMmUyNzY3MTQ5ZWYzZGE1M2QwMDExZmFiZjE0OTFiYTFhMDJkMmY5OWFlMWZjNDkwYjkzMDEzMGI4NGQxMyJ9",
+       "nombre":"Ayudacan",
+       "ubicacion":{
+          "direccion":"Jerónimo Salguero 151,C1177AEA, C1177 AEA, Buenos Aires",
+          "lat":-34.60909997098105,
+          "long":-58.419918482852644
+       },
+       "telefono":"+541134586100",
+       "admisiones":{
+          "perros":true,
+          "gatos":false
+       },
+       "capacidad":150,
+       "lugares_disponibles":49,
+       "patio":true,
+       "caracteristicas":[
+          
+       ]
+    },
+    {
+       "id":"eyJpdiI6IkpEbTZMMytzUDVhZHMySUZqNExhbWc9PSIsInZhbHVlIjoiZkVZMjFzYmhYakIrVjBuMkRqb0JYdz09IiwibWFjIjoiMjlmMWUxN2E4ZmIyYzhlM2UxZTRhZjZkZGVkOWUwZGQxYjRkN2NiZTY4NTlkN2Y3NGE0NGJhZjU4MjJjYzE5MSJ9",
+       "nombre":"El campito Refugio",
+       "ubicacion":{
+          "direccion":"ruta 16 Parc 501, B1842 Monte Grande, Provincia de Buenos Aires",
+          "lat":-34.891156274674614,
+          "long":-58.43278121166188
+       },
+       "telefono":"+541123965480",
+       "admisiones":{
+          "perros":true,
+          "gatos":true
+       },
+       "capacidad":180,
+       "lugares_disponibles":80,
+       "patio":true,
+       "caracteristicas":[
+          
+       ]
+    },
+    {
+       "id":"eyJpdiI6ImN0VUVYS095RFFLRjVKMjRRNkg0R0E9PSIsInZhbHVlIjoiRk5GUUNWUzExRzJ4L1Q1NHA3bTBUdz09IiwibWFjIjoiYTE5OTAwYTM1YTIzN2E2MDM3ZmFjZjIwNzU4MTg2ZDU5ZThjZGMwZDhjMzg0MWU4MjAwYzQyNGI5MzJhZjk3OSJ9",
+       "nombre":"Casita de Adopciones en Tigre",
+       "ubicacion":{
+          "direccion":"Los Mimbres 162, B1648 DUB, Provincia de Buenos Aires",
+          "lat":-34.42061525423029,
+          "long":-58.572775488348505
+       },
+       "telefono":"+541144096338",
+       "admisiones":{
+          "perros":true,
+          "gatos":true
+       },
+       "capacidad":200,
+       "lugares_disponibles":110,
+       "patio":true,
+       "caracteristicas":[
+          
+       ]
+    },
+    {
+       "id":"eyJpdiI6Ijk1WlVpb0VzM1dWRE01RzNvNVJYS0E9PSIsInZhbHVlIjoiMUdmMGw0NDM1VVAyNUtneElBQ1hjZz09IiwibWFjIjoiM2I5MjgxOTMxYjBkMzJhNDU4YjRiMWUzNTIxZjljNjQyYTE5ZmI4NjFkZjdjNjEwYWEzYWNkYWJhNDQ5MWEyZSJ9",
+       "nombre":"Adopciones Quilmes",
+       "ubicacion":{
+          "direccion":"Autopista Buenos Aires - La Plata, Quilmes, Provincia de Buenos Aires",
+          "lat":-34.72110595257815,
+          "long":-58.25543198834849
+       },
+       "telefono":"+541169233782",
+       "admisiones":{
+          "perros":true,
+          "gatos":false
+       },
+       "capacidad":20,
+       "lugares_disponibles":1,
+       "patio":false,
+       "caracteristicas":[
+          "Manso"
+       ]
+    },
+    {
+       "id":"eyJpdiI6ImZBbWw1dHRiUWJoUkJvRnVuSWhiYUE9PSIsInZhbHVlIjoiN1FCNUErcjBVTW1QUThkclFQZzRtUT09IiwibWFjIjoiMjQ1OWMzMDU5YTUxZDVkNGVjYzFlYzI4ZTQ5YTg3Nzc1OTU5MzU0NTk5YTc4NTY2YTQ0MmY5ZDBiNDk5MjBmOCJ9",
+       "nombre":"A.P.R.E.",
+       "ubicacion":{
+          "direccion":"Periodista Augusto Prieto, Lanús, Provincia de Buenos Aires",
+          "lat":-34.69597964404415,
+          "long":-58.38562581166187
+       },
+       "telefono":"+541144348089",
+       "admisiones":{
+          "perros":true,
+          "gatos":true
+       },
+       "capacidad":120,
+       "lugares_disponibles":30,
+       "patio":true,
+       "caracteristicas":[
+          
+       ]
+    },
+    {
+       "id":"eyJpdiI6Ing5cm8rcnNBd29RSzBrbGZmYml2YVE9PSIsInZhbHVlIjoiLzJTZEtGZHMvT2dDek9meTZpUUw3Zz09IiwibWFjIjoiN2RmNTIzNzA4MjBjZWZiZmM4ZjBjODBmYzA1YTZlMTgyZGNmMDMyMzNmMjM2YzExZDRkOThjYmY5ZWFkZDllNCJ9",
+       "nombre":"REFUGIO PARA PERROS SARANDI",
+       "ubicacion":{
+          "direccion":"Nicaragua 2020, B1872 Sarandí, Provincia de Buenos Aires",
+          "lat":-34.67901049853944,
+          "long":-58.338400317796285
+       },
+       "telefono":"+541138516102",
+       "admisiones":{
+          "perros":true,
+          "gatos":false
+       },
+       "capacidad":30,
+       "lugares_disponibles":5,
+       "patio":true,
+       "caracteristicas":[
+          
+       ]
+    },
+    {
+       "id":"eyJpdiI6IlhNWklhOEV3OGJFc1E2VitJK1RNaHc9PSIsInZhbHVlIjoiOFgyMjFoWG5VdGZWWHpyRitXc1dCZz09IiwibWFjIjoiOWY1YjQyYWM0MWJjMDhiMmRiNTU4OWUyZDZiMGM4ODQxOTRmMjlmM2RkMzBmZDIzYTg1OWJkODc4OTg0NDlhZSJ9",
+       "nombre":"Hogar de Proteccion Lourdes",
+       "ubicacion":{
+          "direccion":"C1098ABA, Chile 1393, C1098 Buenos Aires",
+          "lat":-34.61657666535632,
+          "long":-58.38580212945297
+       },
+       "telefono":"+541151835168",
+       "admisiones":{
+          "perros":true,
+          "gatos":true
+       },
+       "capacidad":22,
+       "lugares_disponibles":3,
+       "patio":true,
+       "caracteristicas":[
+          "Delgado",
+          "Amistoso",
+          "Manso"
+       ]
+    }
+ ]
